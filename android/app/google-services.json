@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895917269021",
+    "project_id": "signupdemo2enouvo",
+    "storage_bucket": "signupdemo2enouvo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895917269021:android:e4c882c12c46029a6f26f4",
+        "android_client_info": {
+          "package_name": "com.signupwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895917269021-l8pguemphiqqu6s564grvg8pubm2chk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signupwithgoogle",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "895917269021-t83f0p0hph9uvqp0tpoesi59q8hir6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHU2wwLkW2HnA48-uwIWGz5aeDk7z1xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895917269021-t83f0p0hph9uvqp0tpoesi59q8hir6u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
